@@ -4,3 +4,4 @@
 
 [assignment 3](https://github.com/KRoeling/assignments/blob/master/assignment%203.ipynb)
 
+[assignment 4](https://github.com/KRoeling/assignments/blob/master/assignment%204.ipynb)
