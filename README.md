@@ -8,4 +8,4 @@
 
 [assignment 5(week 6)](https://github.com/KRoeling/assignments/blob/master/Assignment%205%20Week%206.ipynb)
 
-[assignment 6(week 7)](https://github.com/KRoeling/assignments/blob/master/Graded_assignment_2%20week%207.ipynb)
+[assignment 6(week 7)](https://github.com/KRoeling/assignments/blob/master/Graded_assignment_2week%207.ipynb)
