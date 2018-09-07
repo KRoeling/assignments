@@ -13,3 +13,7 @@
 [final assignment R](https://github.com/KRoeling/assignments/blob/master/final%20assignment%20R.ipynb)
 
 [final assignment Python](https://github.com/KRoeling/assignments/blob/master/final%20assignment%20Python.ipynb)
+
+[python sep 7](https://github.com/KRoeling/Exam_sep_7/blob/master/exam_Sep_7_2018%20finished.ipynb)
+
+[R sep 7](https://github.com/KRoeling/Exam_sep_7/blob/master/exam_1_student%20finished.ipynb)
